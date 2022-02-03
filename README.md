@@ -1,7 +1,7 @@
 # Publications
 ### List of publications
 
-**Title:** ***"Алгоритм обеспечения гарантированного выполнения параллельных операций, выполняемых на кластере с архитектурой MIMD"***  
+**+ Title:** ***"Алгоритм обеспечения гарантированного выполнения параллельных операций, выполняемых на кластере с архитектурой MIMD"***  
 **Authors:** Алимагадов К. А., Ахмедханов С. Б.  
 **Organization:** Национальный исследовательский университет «МИЭТ» (National Research University of Electronic Technology)  
 **Conference:** "Актуальные проблемы информатизации в цифровой экономике и научных исследованиях"  
@@ -15,7 +15,7 @@
 **Link:** https://www.elibrary.ru/item.asp?id=41826033  
   
   
-**Title:** ***"Применение фильтра Винера для подавления аддитивного белого шума на изображениях: сравнение частотного и вейвлет-базисов"***  
+**+ Title:** ***"Применение фильтра Винера для подавления аддитивного белого шума на изображениях: сравнение частотного и вейвлет-базисов"***  
 **Authors:** Умняшкин С. В., Алимагадов К. А.  
 **Organization:** Национальный исследовательский университет «МИЭТ» (National Research University of Electronic Technology)  
 **Conference:** "Передовое развитие современной науки: опыт, проблемы, прогнозы"  
@@ -29,7 +29,7 @@
 **Link:** https://www.elibrary.ru/item.asp?id=44537354  
   
   
-**Title:** ***"Application of Wiener Filter to Suppress White Noise in Images: Wavelet vs Fourier Basis"***  
+**+ Title:** ***"Application of Wiener Filter to Suppress White Noise in Images: Wavelet vs Fourier Basis"***  
 **Authors:** K. A. Alimagadov and S. V. Umnyashkin  
 **Organization:** National Research University of Electronic Technology  
 **Conference:** 2021 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (ElConRus)  
