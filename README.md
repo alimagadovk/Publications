@@ -25,7 +25,6 @@
 **Month:** Декабрь  
 **Address:** Петрозаводск  
 **Pages:** 21-27  
-**Source:** РИНЦ  
 **Link:** https://www.elibrary.ru/item.asp?id=44537354  
   
   
@@ -42,3 +41,19 @@
 **Source:** Scopus  
 **DOI:** 10.1109/ElConRus51938.2021.9396470  
 **Link:** https://ieeexplore.ieee.org/document/9396470  
+
+
+**4) Title:** ***"Подавление белого шума на изображениях на основе винеровской фильтрации в области дискретного вейвлет-преобразования с применением нейросетевых технологий"***  
+**Authors:** Алимагадов К. А., Умняшкин С. В.  
+**Organization:** Национальный исследовательский университет «МИЭТ» (National Research University of Electronic Technology)  
+**Journal:** "Известия высших учебных заведений. Электроника. Proceedings of Universities. Electronics"  
+**Publisher:** Национальный исследовательский университет "Московский институт электронной техники"  
+**Year:** 2022  
+**Month:** Декабрь  
+**Address:** Москва  
+**Volume:** 27  
+**Number:** 6  
+**Pages:** 807-818  
+**Source:** ВАК, РИНЦ  
+**DOI:** 10.24151/1561-5405-2022-27-6-807-818  
+**Link:** https://www.elibrary.ru/item.asp?id=49993433  
