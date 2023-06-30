@@ -57,3 +57,18 @@
 **Source:** ВАК, РИНЦ  
 **DOI:** 10.24151/1561-5405-2022-27-6-807-818  
 **Link:** https://www.elibrary.ru/item.asp?id=49993433  
+
+
+**5) Title:** ***"Symbol Sequence Recognition Using Viterbi Algorithm and Probability Approximation Table"***  
+**Authors:** K. Alimagadov, A. Khamukhin and S. Umnyashkin  
+**Organization:** National Research University of Electronic Technology  
+**Conference:** 2023 25th International Conference on Digital Signal Processing and its Applications (DSPA)  
+**Journal:** 2023 25th International Conference on Digital Signal Processing and its Applications (DSPA)  
+**Publisher:** IEEE  
+**Year:** 2023  
+**Month:** May  
+**Address:** Moscow, Russian Federation  
+**Pages:** 1-5  
+**Source:** Scopus  
+**DOI:** 10.1109/DSPA57594.2023.10113407  
+**Link:** https://ieeexplore.ieee.org/document/10113407
