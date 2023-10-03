@@ -5,7 +5,7 @@
 **Authors:** Алимагадов К. А., Ахмедханов С. Б.  
 **Organization:** Национальный исследовательский университет «МИЭТ» (National Research University of Electronic Technology)  
 **Conference:** "Актуальные проблемы информатизации в цифровой экономике и научных исследованиях"  
-**Journal:** "Актуальные проблемы информатизации в цифровой экономике и научных исследованиях" материалы Международной научно-практической конференции"  
+**Proceedings:** "Актуальные проблемы информатизации в цифровой экономике и научных исследованиях" материалы Международной научно-практической конференции"  
 **Publisher:** Национальный исследовательский университет "Московский институт электронной техники"  
 **Year:** 2019  
 **Month:** Ноябрь  
@@ -19,7 +19,7 @@
 **Authors:** Умняшкин С. В., Алимагадов К. А.  
 **Organization:** Национальный исследовательский университет «МИЭТ» (National Research University of Electronic Technology)  
 **Conference:** "Передовое развитие современной науки: опыт, проблемы, прогнозы"  
-**Journal:** "Передовое развитие современной науки: опыт, проблемы, прогнозы" сборник статей II Международной научно-практической конференции"  
+**Proceedings:** "Передовое развитие современной науки: опыт, проблемы, прогнозы" сборник статей II Международной научно-практической конференции"  
 **Publisher:** Международный центр научного партнерства «Новая Наука»  
 **Year:** 2020  
 **Month:** Декабрь  
@@ -32,7 +32,7 @@
 **Authors:** K. A. Alimagadov and S. V. Umnyashkin  
 **Organization:** National Research University of Electronic Technology  
 **Conference:** 2021 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (ElConRus)  
-**Journal:** 2021 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (ElConRus)  
+**Proceedings:** 2021 IEEE Conference of Russian Young Researchers in Electrical and Electronic Engineering (ElConRus)  
 **Publisher:** IEEE  
 **Year:** 2021  
 **Month:** January  
@@ -63,7 +63,7 @@
 **Authors:** K. Alimagadov, A. Khamukhin and S. Umnyashkin  
 **Organization:** National Research University of Electronic Technology  
 **Conference:** 2023 25th International Conference on Digital Signal Processing and its Applications (DSPA)  
-**Journal:** 2023 25th International Conference on Digital Signal Processing and its Applications (DSPA)  
+**Proceedings:** 2023 25th International Conference on Digital Signal Processing and its Applications (DSPA)  
 **Publisher:** IEEE  
 **Year:** 2023  
 **Month:** May  
@@ -72,3 +72,17 @@
 **Source:** Scopus  
 **DOI:** 10.1109/DSPA57594.2023.10113407  
 **Link:** https://ieeexplore.ieee.org/document/10113407
+
+
+**6) Title:** ***"Исследование влияния фильтрации шумов в области дискретного вейвлет-преобразования на качество распознавания цифровых изображений"***  
+**Authors:** Алимагадов К. А.  
+**Organization:** Национальный исследовательский университет «МИЭТ» (National Research University of Electronic Technology)  
+**Conference:** "Микроэлектроника и информатика - 2023"  
+**Proceedings:** "Материалы научно-технической конференции "Микроэлектроника и информатика - 2023"  
+**Publisher:** Национальный исследовательский университет "Московский институт электронной техники"  
+**Year:** 2023  
+**Month:** Апрель  
+**Address:** Москва  
+**Pages:** 22-28  
+**Source:** РИНЦ  
+**Link:** https://www.elibrary.ru/item.asp?id=54605372  
