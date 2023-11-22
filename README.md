@@ -99,4 +99,5 @@
 **Address:** Москва  
 **Pages:** 437-442  
 **Source:** РИНЦ  
+**DOI:** 10.20948/graphicon-2023-437-442  
 **Link:** https://elibrary.ru/item.asp?id=54884391  
