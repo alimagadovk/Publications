@@ -52,7 +52,7 @@
 **Month:** Декабрь  
 **Address:** Москва  
 **Volume:** 27  
-**Number:** 6  
+**Issue:** 6  
 **Pages:** 807-818  
 **Source:** ВАК, РИНЦ  
 **DOI:** 10.24151/1561-5405-2022-27-6-807-818  
@@ -101,3 +101,19 @@
 **Source:** РИНЦ  
 **DOI:** 10.20948/graphicon-2023-437-442  
 **Link:** https://elibrary.ru/item.asp?id=54884391  
+
+
+**8) Title:** ***"White Noise Suppression Based on Wiener Filtering Using Neural Network Technologies in the Domain of the Discrete Wavelet Transform"***  
+**Authors:** K.A. Alimagadov and S.V. Umnyashkin  
+**Organization:** National Research University of Electronic Technology  
+**Journal:** "Russian Microelectronics"  
+**Publisher:** Pleiades Publishing, Ltd.  
+**Year:** 2023  
+**Month:** December  
+**Address:** Moscow, Russia  
+**Volume:** 52  
+**Issue:** 7  
+**Pages:** 722–729  
+**Source:** Scopus  
+**DOI:** 10.1134/S106373972307003X  
+**Link:** https://link.springer.com/article/10.1134/S106373972307003X  
