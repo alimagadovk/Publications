@@ -117,3 +117,18 @@
 **Source:** Scopus  
 **DOI:** 10.1134/S106373972307003X  
 **Link:** https://link.springer.com/article/10.1134/S106373972307003X  
+
+
+**9) Title:** ***"Wavelet-Based Loss Function for Image Denoising by Neural Networks"***  
+**Authors:** K. Alimagadov and S. Umnyashkin  
+**Organization:** National Research University of Electronic Technology  
+**Conference:** 2024 26th International Conference on Digital Signal Processing and its Applications (DSPA)  
+**Proceedings:** 2024 26th International Conference on Digital Signal Processing and its Applications (DSPA)  
+**Publisher:** IEEE  
+**Year:** 2024  
+**Month:** May  
+**Address:** Moscow, Russian Federation  
+**Pages:** 1-6  
+**Source:** Scopus  
+**DOI:** 10.1109/DSPA60853.2024.10510024  
+**Link:** https://ieeexplore.ieee.org/document/10510024
